@@ -3,13 +3,13 @@
 <head>
 <style>
 body {
-    background-image: url("http://www.thisiscolossal.com/wp-content/uploads/2013/01/3.gif");
+    background-image: url("https://www.environmentallights.com/media/catalog/product/large/rgb-pixelpro-bullet-8mm.gif");
 }
 </style>
 </head>
 <body>
 <h1 style="color:yellow;background-color:black;margin-left:20px"> Susanna Ingignoli </h1>
-<h2 style="color:black;margin-left:20px">Personal page</h2>
+<h2 style="color:black;background-color:white;margin-left:20px">Personal page</h2>
 
 <p style="margin-left:20px">
 What do you want to know?
