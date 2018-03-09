@@ -12,7 +12,7 @@ body {
 <h2 style="color:white;margin-left:20px">Personal page</h2>
 
 <p style="margin-left:20px">
-<h6 {
+<h6{
 style="color:white"
 }>What do you want to know?
 <ul>
