@@ -5,7 +5,7 @@
 <p style="margin-left:20px">
 What do you want to know?
 <ul>
-<li> <a href=#ABOUTME>About me</a> </li>
+<li> <a href="#Aboutme">About me</a> </li>
 <li> Portfolio </li>
 <li> Curriculum </li>
 <li> Contacts </li>
@@ -13,7 +13,7 @@ What do you want to know?
 </p>
 
 <p style="margin-left:20px">
-<h3 style="color:yellow" id="About me">ABOUT ME</h3>
+<h3 style="color:yellow" id="About me">About me</h3>
 I'm a 20 years old student of Communication Design at Politecnico of Milan. 
 I'm really into illustrations and graphic in general!
 I'm also improving my skills in videomaking and in creating websites!
