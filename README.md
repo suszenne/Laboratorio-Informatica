@@ -1,9 +1,13 @@
 # Laboratorio-Informatica
-<body {
-    background-image: url("Texture seamless marmo marble simo-3d");
-}>
-</body>
-<p>
+<html>
+<head>
+<style>
+body {
+    background-image: url("paper.gif");
+}
+</style>
+</head>
+<body>
 <h1 style="color:yellow;background-color:black;margin-left:20px"> Susanna Ingignoli </h1>
 <h2 style="color:black;margin-left:20px">Personal page</h2>
 
@@ -42,4 +46,5 @@ You can see my Curriculum here: <a href="https//:suszennecurriculum">Portfoliosu
 This is my email contact: susannaingignoli@gmail.com
 But you can also follow me on Instagram: <a href="https://www.instagram.com/suszenne/">suzenneinstagram</a>
 </p>
-</p>
+</body>
+</html>
