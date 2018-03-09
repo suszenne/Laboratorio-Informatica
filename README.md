@@ -1,5 +1,5 @@
 # Laboratorio-Informatica
-<body {background-image: url(https://www.facebook.com/photo.php?fbid=1755825004481126&set=pcb.1755825131147780&type=3&theater)>
+<body {background-image: url(https://www.google.it/search?q=jungle&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi88sjtp9_ZAhUF7RQKHQXvBjIQ_AUICigB&biw=1517&bih=653#imgrc=Wlej0k7U7apb-M:)>
 <h1 style="color:yellow;background-color:black;margin-left:20px"> Susanna Ingignoli </h1>
 <h2 style="color:black;margin-left:20px">Personal page</h2>
 
