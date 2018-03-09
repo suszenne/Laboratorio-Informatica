@@ -22,3 +22,14 @@ I'm also improving my skills in videomaking and in creating websites!
 <p style="margin-left:20px">
 <h3 style="color:yellow">PORTFOLIO</h3>
 You can see my Portfolio here: <a href="https//:suszenneportfolio">Portfoliosuszenne</a>
+</p>
+
+<p style="margin-left:20px">
+<h3 style="color:yellow">CURRICULUM</h3>
+You can see my Curriculum here: <a href="https//:suszennecurriculum">Portfoliosuszenne</a>
+</p>
+
+<p style="margin-left:20px">
+<h3 style="color:yellow">CONTACTS</h3>
+This is my email contact: susannaingignoli@gmail.com
+But you can also follow me on Instagram: <a href="https://www.instagram.com/suszenne/">suzenneinstagram</a>
