@@ -5,7 +5,7 @@
 <p style="margin-left:20px">
 What do you want to know?
 <ul>
-<li> <a href=#ABOUT ME>About me</a> </li>
+<li> <a href=#ABOUTME>About me</a> </li>
 <li> Portfolio </li>
 <li> Curriculum </li>
 <li> Contacts </li>
