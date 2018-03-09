@@ -33,6 +33,7 @@ You can see my Curriculum here: <a href="https//:suszennecurriculum">Portfoliosu
 </p>
 
 <p style="margin-left:20px">
-<h3 style="color:yellow"id="Contacts">Contacts</h3>
+<h3 style="color:yellow" id="Contacts">Contacts</h3>
 This is my email contact: susannaingignoli@gmail.com
 But you can also follow me on Instagram: <a href="https://www.instagram.com/suszenne/">suzenneinstagram</a>
+</p>
