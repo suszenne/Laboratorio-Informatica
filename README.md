@@ -18,9 +18,7 @@ body {
 <li> <a href="#Portfolio">Portfolio</a> </li>
 <li> <a href="#Curriculum">Curriculum</a> </li>
 <li> <a href="#Contacts">Contacts</a> </li>
-</h6>
 </ul>
-</p>
 
 <p style="margin-left:20px">
 <h3 style="color:yellow" id="About me">About me</h3>
