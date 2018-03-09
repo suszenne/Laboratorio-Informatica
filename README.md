@@ -1,6 +1,7 @@
 # Laboratorio-Informatica
 <body background="https://www.google.it/search?biw=1517&bih=707&tbm=isch&sa=1&ei=BIqiWryfNoa9UfOwqIgN&q=galaxy+texture&oq=galaxy+texture&gs_l=psy-ab.3..0j0i7i30k1l4j0i7i5i30k1j0i30k1l4.10448.11693.0.12118.6.6.0.0.0.0.178.593.1j4.5.0....0...1c.1.64.psy-ab..1.5.589...0i13k1.0.x97rmxmglRc#imgrc=CsftkO38GOsTQM:">
 </body>
+<p>
 <h1 style="color:yellow;background-color:black;margin-left:20px"> Susanna Ingignoli </h1>
 <h2 style="color:black;margin-left:20px">Personal page</h2>
 
@@ -38,4 +39,5 @@ You can see my Curriculum here: <a href="https//:suszennecurriculum">Portfoliosu
 <h3 style="color:yellow" id="Contacts">Contacts</h3>
 This is my email contact: susannaingignoli@gmail.com
 But you can also follow me on Instagram: <a href="https://www.instagram.com/suszenne/">suzenneinstagram</a>
+</p>
 </p>
