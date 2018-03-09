@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-    background-image: url("paper.gif");
+    background-image: url("http://1.bp.blogspot.com/-ek6b2ukWHtk/UXq2nRNBtWI/AAAAAAAAEqo/-icV4TzXN94/w1200-h630-p-k-no-nu/Texture+seamless+marmo+marble+simo-3d.jpg");
 }
 </style>
 </head>
