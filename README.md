@@ -1,5 +1,7 @@
 # Laboratorio-Informatica
-<body background="suszenne.github.ioLaboratorio-Informatica#Contacts">
+<body {
+    background-image: url("Texture seamless marmo marble simo-3d");
+}>
 </body>
 <p>
 <h1 style="color:yellow;background-color:black;margin-left:20px"> Susanna Ingignoli </h1>
