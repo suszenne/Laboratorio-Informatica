@@ -8,9 +8,9 @@ body {
 </style>
 </head>
 <body>
-<style>
-<link rel="stylesheet" href="https://github.com/suszenne/style.css.git">  
-</style>    
+<head>
+<link rel="stylesheet" href="style.css">  
+</head>    
 <h1>Susanna Ingignoli</h1>
 <h2 style="color:white;margin-left:20px">Personal page</h2>
 
