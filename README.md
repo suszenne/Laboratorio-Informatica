@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/suszenne/style.css.git">
 </style>
 </head>    
 <body>  
