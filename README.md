@@ -1,7 +1,7 @@
 # Laboratorio-Informatica
 <html>
 <head>
-<link rel="stylesheet"href="style.css">
+<link rel="stylesheet" href="https://github.com/suszenne/style.css.git">
 <style>
 body {
     background-image: url("https://www.environmentallights.com/media/catalog/product/large/rgb-pixelpro-bullet-8mm.gif");
