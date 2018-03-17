@@ -2,10 +2,7 @@
 <html>
 <head>
 <style>
-body {
-    background-image: url("https://www.environmentallights.com/media/catalog/product/large/rgb-pixelpro-bullet-8mm.gif");
-}
-<link rel ="stylesheet"   type="text/css" href="style.css"> 
+<link rel="stylesheet" type="text/css" href="style.css">
 </style>
 </head>    
 <body>  
