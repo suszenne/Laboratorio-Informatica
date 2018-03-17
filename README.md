@@ -1,9 +1,7 @@
 # Laboratorio-Informatica
 <html>
 <head>
-<style>
-<link rel="stylesheet" type="text/css" href="https://github.com/suszenne/style.css.git">
-</style>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>    
 <body>  
 <h1>Susanna Ingignoli</h1>
