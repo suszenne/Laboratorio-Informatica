@@ -5,7 +5,7 @@
 </head>    
 <body>  
 <h1>Susanna Ingignoli</h1>
-<h2 style="color:white;margin-left:20px">Personal page</h2>
+<h2>Personal page</h2>
 
 <p style="margin-left:20px">
 <h4>What do you want to know?
