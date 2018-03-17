@@ -1,16 +1,12 @@
 # Laboratorio-Informatica
 <html>
 <head>
-<style>
+<link rel="stylesheet" href="style.css">
+</head>
 body {
     background-image: url("https://www.environmentallights.com/media/catalog/product/large/rgb-pixelpro-bullet-8mm.gif");
 }
-</style>
-</head>
-<body>
-<head>
-<link rel="stylesheet" href="style.css">  
-</head>    
+<body>  
 <h1>Susanna Ingignoli</h1>
 <h2 style="color:white;margin-left:20px">Personal page</h2>
 
