@@ -1,8 +1,10 @@
 # Laboratorio-Informatica
 <html>
 <head>
+    <style>
 <link rel="stylesheet" href="style.css">
-</head>
+    </style>
+    </head>
 body {
     background-image: url("https://www.environmentallights.com/media/catalog/product/large/rgb-pixelpro-bullet-8mm.gif");
 }
